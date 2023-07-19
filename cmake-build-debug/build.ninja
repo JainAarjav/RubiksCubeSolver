@@ -49,12 +49,14 @@ build cmake_object_order_depends_target_RubiksCubeSolver: phony || CMakeFiles/Ru
 build CMakeFiles/RubiksCubeSolver.dir/main.cpp.o: CXX_COMPILER__RubiksCubeSolver_Debug /Users/aarjavjain/CLionProjects/RubiksCubeSolver/main.cpp || cmake_object_order_depends_target_RubiksCubeSolver
   DEP_FILE = CMakeFiles/RubiksCubeSolver.dir/main.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -I/usr/local/include
   OBJECT_DIR = CMakeFiles/RubiksCubeSolver.dir
   OBJECT_FILE_DIR = CMakeFiles/RubiksCubeSolver.dir
 
 build CMakeFiles/RubiksCubeSolver.dir/genericRubikscube.cpp.o: CXX_COMPILER__RubiksCubeSolver_Debug /Users/aarjavjain/CLionProjects/RubiksCubeSolver/genericRubikscube.cpp || cmake_object_order_depends_target_RubiksCubeSolver
   DEP_FILE = CMakeFiles/RubiksCubeSolver.dir/genericRubikscube.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -I/usr/local/include
   OBJECT_DIR = CMakeFiles/RubiksCubeSolver.dir
   OBJECT_FILE_DIR = CMakeFiles/RubiksCubeSolver.dir
 
